@@ -38,7 +38,6 @@ nav ul li {
     color: var(--HEADER-COLOR);
     padding: 0.5em;
     padding-left: 0;
-    border-bottom: 0.5px solid #333;
     position: sticky;
     top: 0;
     z-index: 1;
@@ -276,12 +275,12 @@ div h3 {
     font-weight: bold;
     color: var(--BLEND-COLOR2);
     padding: 1rem;
-    border-bottom: 1px solid #333;
+    border-bottom: 0.3px solid #333;
 }
 
 .testimonials div{
     text-align: center;
-    border-bottom: 1px solid #333;
+    border-bottom: 0.5px solid #333;
 }
 
 .testimonials div h4 {
